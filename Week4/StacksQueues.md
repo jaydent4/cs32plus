@@ -43,7 +43,7 @@ queue.append(30)
 z = queue.popleft()
 ```
 
-We use deque() to have an efficient queue implementation (we can also use deque for stacks and call stack.popright() instead).\
+We use deque() to have an efficient queue implementation (we can also use deque for stacks and call stack.popright() instead).
 
 While stacks and queues seem very niche in terms of their use cases, the next lesson will go over very crucial use cases for these data structures. It turns out, they are incredibly useful!
 
