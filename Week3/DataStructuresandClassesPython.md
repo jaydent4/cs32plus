@@ -39,7 +39,7 @@ will print:
 i in our program will become each of the values of the list. This is analogous to something like this in C++:
 ```cpp
 int arr[4] = {10, 100, 1000, 10000}
-for (int i = 0; i < n; i++) {
+for (int i = 0; i < 4; i++) {
     std::cout << arr[i] << std::endl;
 }
 ```
