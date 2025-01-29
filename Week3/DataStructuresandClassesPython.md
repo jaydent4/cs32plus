@@ -166,7 +166,7 @@ n1 = ListNode(1, n2)
 # Creates 1 -> 2 -> 3 ->
 ```
 
-While there are no pointers, still be careful about losing objects (like losing a list node).\
+While there are no pointers, still be careful about losing objects (like losing a list node).
 
 Those are the data structures and OOP we will cover for now. As we continue needing more specialized data structures (and you learn more in CS 32), we will cover more of them. For now, we will stick to using these.
 
