@@ -11,7 +11,7 @@ In this repo, we will go over Python and more advanced algorithms. In general, e
 | Week | Lesson |
 | :----: | :------: |
 |   3  |   (Fast) Introduction to Python, Data Structures and Classes in Python |
-|   4  | Graphs, BFS, DFS |
+|   4  | Stacks, Queues, Graphs, BFS, DFS, Topological Sort |
 
 ## Contributions
 Jayden Truong (LA, W25)
