@@ -161,7 +161,7 @@ class ListNode:
 ...
 n3 = ListNode(3)
 n2 = ListNode(2, n3)
-n1 = ListNode(1, n2)
+n1 = ListNode(1, n2)        
 
 # Creates 1 -> 2 -> 3 ->
 ```
