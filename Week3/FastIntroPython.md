@@ -1,6 +1,6 @@
 # (Fast) Introduction to Python
 
-I know that a lot of you don't have the time to go through documentations/tutorials about learning languages. Here is a really quick tutorial on Python that will (hopefully) teach you all that you need to do these types of questions (Fun Fact: I learned Python by solely doing Leetcode).
+I know that a lot of you don't have the time to go through documentations/tutorials about learning languages. Here is a really quick tutorial on Python that will (hopefully) teach you all that you need to do these types of questions (Fun Fact: I learned Python by solely doing Leetcode). As stated before, Python is the go-to language for coding interviews/assessments.
 
 ## Static vs. Dynamic Typing
 
@@ -8,20 +8,20 @@ C++ is statically-typed, meaning that variable types are defined at compile time
 
 ```cpp
 ...
-int x = 0; // x is an integer!
+int x = 0;      // x is an integer!
 double y = 1.5; // y is a double!
-x = y + 1; // x is still an integer, it is 2!
+x = y + 1;      // x is still an integer, it is 2!
 ...
 ```
 
 Since x is declared as an integer, x stays as an integer, even if we try to add a double (y) to it.\
-In Python, it is a lot less strict. For exmaple: 
+In Python, it is a lot less strict. For example: 
 
 ```python
-x = 0 # x is an integer!
+x = 0             # x is an integer!
 x = "Hello World" # x is now a string!
-x = float('inf') # wait, x is now the float representation of infinity?!
-x = Object() # x is now an object! (more on Python OOP later in this lesson)
+x = float('inf')  # wait, x is now the float representation of infinity?!
+x = Object()      # x is now an object! (more on Python OOP later in this lesson)
 ```
 As seen from the exmaple, Python allows variables to be dynamically-typed, the type can "change." However, try not to assign a single variable with multiple types.\
 NOTE: casting variables to a different type is okay and sometimes convenient, for example:

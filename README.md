@@ -1,5 +1,5 @@
 # CS 32+
-Welcome to CS32+. This is a project on behalf of the Learning Assistant's program's CS Focus group aiming to improve CS education as a whole. This lesson guide is intended to work alongside CS 32's curriculum and as a more advanced lesson track compared to normal CS 32 lessons. It is only recommended to follow this lesson guide if you have a solid understanding of current CS 32's lessons.
+Welcome to CS32+. This is a project for the Learning Assistant's program's CS Focus group with the goal to improve CS education as a whole. This lesson guide is intended to work alongside CS 32's curriculum and as a more advanced lesson track compared to normal CS 32 lessons. It is only recommended to follow this lesson guide once you have a solid understanding of current CS 32's lessons.
 
 This project addresses two concerns:
 1. CS 32 does not cover more advanced data structures and algorithms that are useful in doing Leetcode-style questions. CS 32 also teaches in C++, which is not as common in coding interviews/coding assessments compared to Python.
@@ -10,8 +10,8 @@ In this repo, we will go over Python and more advanced algorithms. In general, e
 ## Lessons
 | Week | Lesson |
 | :----: | :------: |
-|   1  |   (Fast) Introduction to Python |
-|   2  | Graphs, BFS, DFS |
+|   3  |   (Fast) Introduction to Python, Data Structures and Classes in Python |
+|   4  | Graphs, BFS, DFS |
 
 ## Contributions
 Jayden Truong (LA, W25)
