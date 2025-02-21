@@ -7,11 +7,17 @@ This project addresses two concerns:
 
 In this repo, we will go over Python and more advanced algorithms. In general, everything will be mostly taught in Python (for ease of the writer(me)) but some code examples may be shown in C++ as well. However, for reference, Python is probably your best bet in doing any technical interviews/OAs.
 
+## Feedback
+Please fill out the form each week (or whenever you decide to read this) and give feedback on the lesson you worked on.
+
+https://forms.gle/uMutoYVRFK8FkBe2A
+
 ## Lessons
 | Week | Lesson |
 | :----: | :------: |
 |   3  |   (Fast) Introduction to Python, Data Structures and Classes in Python |
-|   4  | Stacks, Queues, Graphs, BFS, DFS, Topological Sort |
+|   4  | Stacks, Queues, BFS/DFS |
+| 5 - 8 | Recursion, Memoization, Caching |
 
 ## Contributions
 Jayden Truong (LA, W25)
