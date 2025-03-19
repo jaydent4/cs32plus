@@ -108,7 +108,7 @@ Iterate through the grid
 return count
 ```
 
-**TIP**: In general, it is a good idea to come up with some pseudocode before approaching any 
+**TIP**: In general, it is a good idea to come up with some pseudocode before approaching any problem.
 
 Here is how to do this in Python
 ```python
