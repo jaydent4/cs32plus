@@ -18,6 +18,7 @@ https://forms.gle/uMutoYVRFK8FkBe2A
 |   3  |   (Fast) Introduction to Python, Data Structures and Classes in Python |
 |   4  | Stacks, Queues, BFS/DFS |
 | 5 - 8 | Recursion, Memoization, Caching |
+| 9 | Other topics to explore |
 
 ## Contributions
 Jayden Truong (LA, W25)
